@@ -3,8 +3,8 @@
 
 ## Tecnologias
 
-* [NodeJS](https://nodejs.org/en/)
 * [ReactJS](https://reactjs.org/)
+* [NextJS](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 
 ## Execução
